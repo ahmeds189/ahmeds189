@@ -14,5 +14,6 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmeds189&show_icons=true&locale=en&layout=compact" alt="ahmeds189" /></p>
 
-
-<a  align="center"  href="https://app.daily.dev/ahmeds189"><img src="https://github.com/ahmeds189/ahmeds189/blob/main/devcard.svg" width="400" alt="Ahmed Said's Dev Card"/></a>
+<p align="center">
+<a href="https://app.daily.dev/ahmeds189"><img src="https://github.com/ahmeds189/ahmeds189/blob/main/devcard.svg" width="400" alt="Ahmed Said's Dev Card"/></a>
+</p>
